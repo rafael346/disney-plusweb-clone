@@ -79,7 +79,7 @@ const NavMenu = styled.div`
       position: relative;
 
       &:after {
-        content "";
+        content ""; //Não é um erro / It's not a error.
         height: 2px;
         background: white;
         position: absolute;
