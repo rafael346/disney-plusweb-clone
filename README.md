@@ -1,6 +1,6 @@
 <h2>Clone App Disney+</h2>
 
-Clone da versão web do App Disney Plus, utilizando Styled Components, Firebase e ReactJs.
+Clone da versão web do App Disney Plus (simplificado), utilizando Styled Components, Firebase e ReactJs.
 
 ## 🚀 Começando
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
@@ -31,3 +31,17 @@ Após executar esses  comandos basta aguardar a inicialização do app e ele est
 
 
 ## ▶️ Demonstração da Aplicação
+
+#### Tela Home
+![GifHome](https://user-images.githubusercontent.com/22009598/117602741-cc0a4c80-b127-11eb-8e93-c4047c16d05b.gif)
+
+#### Login
+![GifLogin](https://user-images.githubusercontent.com/22009598/117602753-d593b480-b127-11eb-8dd0-8144b2312fc9.gif)
+
+#### Logout
+![GifLogout](https://user-images.githubusercontent.com/22009598/117602769-e2b0a380-b127-11eb-9402-ac8b631fe691.gif)
+
+#### Selecionado Filme
+![GifSelecionandoFilmes](https://user-images.githubusercontent.com/22009598/117602847-0673e980-b128-11eb-8130-e4a6d0aa4860.gif)
+
+
